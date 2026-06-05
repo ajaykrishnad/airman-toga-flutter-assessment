@@ -5,8 +5,8 @@ A production-minded, feature-first Flutter mobile application module designed sp
 ## 📱 Application Modules & Walkthrough
 
 ### 📊 Cadet Flight Dashboard
-| Main Metrics & Progress | Detailed Logs & Currency | Upcoming Flight Schedule |
-| :---: | :---: | :---: |
+| Main Metrics & Progress | Detailed Logs & Currency |
+| :---: | :---: |
 | ![Dashboard Home](screenshots/dashboard.png) | ![Logbook Metrics](screenshots/dashboard2.png) |
 
 ---
