@@ -2,6 +2,12 @@
 
 A production-minded, feature-first Flutter mobile application module designed specifically for AIRMAN Aeronautics' aviation training ecosystems. This application serves as a dedicated platform for cadets to monitor flight training operations, check academic progress, capture study notes locally, and interact with aviation-specific modules.
 
+## 📱 Application Screenshots
+
+| Cadet Dashboard | Study Subjects | Notifications Layer |
+| :---: | :---: | :---: |
+| ![Dashboard](screenshots/dashboard.png,dashboard2.png) | ![Subjects](screenshots/subjects.png,subjects2.png) | ![Notifications](screenshots/notifications.png) |
+
 ---
 
 ## 📋 Table of Contents
