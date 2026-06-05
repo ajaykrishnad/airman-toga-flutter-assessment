@@ -55,7 +55,7 @@ lib/
 │   └── notifications/              # Flight and Academic operational notification items[cite: 1]
 └── shared/                         # Global reusable interface blocks[cite: 1]
     └── widgets/                    # Status badges, spinners, and empty/error states[cite: 1]
-
+```
 ## 5. Setup Instructions
 Ensure you have the Flutter SDK configured on your machine (`flutter doctor` should verify green status).
 
@@ -64,18 +64,18 @@ Clone the repository and fetch the official packages:
 git clone [https://github.com/ajaykrishnad/airman-toga-flutter-assessment.git](https://github.com/ajaykrishnad/airman-toga-flutter-assessment.git)
 cd airman-toga-flutter-assessment
 flutter pub get
-
+```
 ## 6. How to Run the App
 To boot up the production workspace in debug or profile mode:
 ```bash
 # Run on connected emulator or browser environment
 flutter run
-
+```
 ## 7. How to Run Tests
 The repository features automated domain unit verification components mapping data transitions. Execute them via:
 ```bash
 flutter test
-
+```
 ## 8. Mock Data Explanation
 All app views communicate strictly with service layers that mock realistic payload contracts matching the provided schema targets[cite: 1]. The entities map directly to strongly-typed data objects featuring defensive fallback default parameters to eliminate unexpected null parsing exceptions across strings, integer progress metrics, and boolean toggle fields[cite: 1].
 
